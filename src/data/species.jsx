@@ -4544,7 +4544,25 @@ const taxonomy = [
     height: 'Climbing',
     lifespan: 'Several years',
     image: Veldt_Grape
-  }
+  },
+      {
+    id: 165,
+    name: 'Cocos nucifera',
+    commonName: 'Coconut Tree',
+    class: 'Liliopsida',
+    phylum: 'Tracheophyta',
+    order: 'Arecales',
+    family: 'Arecaceae',
+    conservationStatus: 'Not Evaluated',
+    habitat: 'Tropical coastal regions',
+    description: 'Tall palm tree known for its large, edible fruit, the coconut.',
+    age: '60-80 years',
+    height: '20-30 meters',
+    lifespan: '60-100 years',
+    image: Coconut_Tree
+},
+      
+
 
     ]
   }
